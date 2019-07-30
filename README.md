@@ -1,4 +1,4 @@
-# newsposts
+# news-app
 
 ## Project setup
 ```
